@@ -1,10 +1,11 @@
-![Logo du Hackathon Mobilités 2025](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/blob/main/images_documentation/Hackathon%20mobilite%CC%81s_logo%20simple.jpg)
+![Logo du Hackathon Mobilités](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/blob/main/images_documentation/Hackathon%20mobilit%C3%A9s_logo%20simple.jpg)
+
 
 # Présentation des défis du Hackathon Mobilités 2025
 
 Cette page décrit les 4 défis du Hackathon Mobilités 2025. Lien vers [le guide du participant](https://github.com/hackathons-mobilites/hackathon_mobilites_2025/tree/main).
 
-## Défi 1 - Mobilités actives et intermodalité : évaluation d’impact et propositions d’outils
+## Défi 1 - Évaluer l’impact des mobilités actives et de l’intermodalité
 
 ### Contexte
 
