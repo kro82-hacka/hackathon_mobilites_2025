@@ -39,6 +39,22 @@ Retrouvez aussi les meilleurs projets de l'année dernière en suivant ce [lien]
 
 > Note pour l'équipe
 
-Pour développer avant d'intégrer
+Principe d'opération: On centralise sur un seul repo (master) sur le quel on va chacun faire un fork et merge depuis:
+
+1. Aller sur le repo:
 
 ```shell
+git clone -b equipe-2 https://github.com/aladinoster/hackathon_mobilites_2025.git
+```
+
+2. Fork le repo
+
+3. Cloner votre repo
+
+```shell
+git clone -b equipe-2 https://github.com/<user>/hackathon_mobilites_2025.git
+```
+
+4. Commit toutes les experiences/ explorations sur notebooks. On reserve le prototype finale sur resultats
+
+5. Integrer le code via un [Pull request](https://github.com/aladinoster/hackathon_mobilites_2025/compare)
